@@ -30,14 +30,13 @@ I'm a final year Computer Science engineering student interested in building
 reliable backend systems, full-stack applications, and intelligent
 software using machine learning and modern web technologies.
 
-- 🔭 Building: **NestNear — Student Relocation Platform**
-- 🌱 Currently learning: **System Design, AI, and Cloud/DevOps**
-- 💻 Interested in: **Software Engineering · Backend · AI-powered Applications**
-- 📍 Nagpur, Maharashtra
+-  Currently learning: **System Design, AI, and Cloud/DevOps**
+-  Interested in: **Software Engineering · Backend · AI-powered Applications**
+-  Nagpur, Maharashtra
 
 ---
 
-## Certifications
+### Certifications
 
 **AWS Certified Cloud Practitioner**  
 [Verify credential ↗](https://cp.certmetrics.com/amazon/en/public/verify/credential/0108d6a6f8f24da0a0ac15278b270b16)
